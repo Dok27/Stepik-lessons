@@ -25,27 +25,3 @@ public class Main {
 }
 
 
-
-
-
-//        int[][] mas = new int[n][n];
-//        int[][] mas2 = new int[n][n];
-//        for (int i = 0; i<n; i++){
-//            for (int j = 0; j<n; j++){
-//                mas[i][j] = sc.nextInt();
-//            }
-//        }
-//        for (int i = 0; i<n; i++){
-//            for (int j = 0; j<n; j++){
-//                mas2[j][i] = mas[i][j];
-//            }
-//        }
-//        for (int i = 0; i<n; i++){
-//            for (int j = 0; j<n; j++){
-//                System.out.print(mas2[i][j]+" ");
-//            }
-//            System.out.println();
-//        }
-//    }
-
-
