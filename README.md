@@ -1,4 +1,5 @@
 # Stepik-lessons
+
 # Python
 4.6 Матрицы. Часть 3
 
@@ -31,7 +32,7 @@ Sample Output 1:
 
 12 11 10 9  8
 
-#Java
+# Java
 
 1.15
 
