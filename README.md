@@ -50,7 +50,9 @@ Bubble sort
 Sample Input:
 
 7
+
 3 4 2 5 8 9 2
+ 
 Sample Output:
 
 2 2 3 4 5 8 9
