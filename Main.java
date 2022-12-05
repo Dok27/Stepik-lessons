@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int x = 0;
+        int temp = 0;
         int [] array = new int[n];
         for (int i = 0; i < n; i++) {
             array[i] = sc.nextInt();
@@ -12,9 +12,9 @@ public class Main {
         for (int j = 0; j < n; j++) {
             for (int i = 1; i < n; i++) {
                 if (array[i - 1] > array[i]) {
-                    x = array[i - 1];
+                    temp = array[i - 1];
                     array[i - 1] = array[i];
-                    array[i] = x;
+                    array[i] = temp;
                 }
             }
         }
